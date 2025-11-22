@@ -1,0 +1,3 @@
+# Diabetes Prediction using Machine Learning in Python 
+## 📌 Project Overview
+##### This project focuses on building a machine learning model that predicts whether a person has diabetes based on health-related features. Using the Pima Indians Diabetes Dataset from Kaggle, the project applies data preprocessing, exploratory data analysis, and classification algorithms, SVM, to predict diabetes outcomes. The workflow includes splitting the dataset into training and testing sets, standardizing features for better model performance, evaluating accuracy, and developing a simple predictive system to classify patient data. This project demonstrates a complete end-to-end process of building a supervised machine learning model for real-world medical predictions.
