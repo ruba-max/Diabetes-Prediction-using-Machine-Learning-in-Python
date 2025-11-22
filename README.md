@@ -11,7 +11,7 @@
 
 ## 📁 Dataset
 ##### Name: Pima Indians Diabetes Dataset
-##### Source: Kaggle
+##### Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ##### Shape: 768 samples × 8 features
 ##### Features: Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age
 ##### Target Label:
